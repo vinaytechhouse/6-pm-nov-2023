@@ -1,7 +1,9 @@
+Power BI 6 pm batch accounts practice:
+
 
 Power BI Account Details:
 ====================
-Account 1:
+Account 1: New 
 
 user name: vinaytech_0811@vinaytechhouse.com
 password: vinaytech@2023
