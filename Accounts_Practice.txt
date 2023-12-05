@@ -1,0 +1,20 @@
+
+Power BI Account Details:
+====================
+Account 1:
+
+user name: vinaytech_0811@vinaytechhouse.com
+password: vinaytech@2023
+
+
+===================================
+Workspace: Working area [It supports PBIX, RDL, and XLSX files]
+Appspace: Sharing area [Customers se this to browse reports and share annotations, Team members to colloborate work]
+==================================
+
+a) Open Browser (Google chrome or Internet Explorer)
+b) Type cloud service URL:  app.power bi.com, connect with the above credentials
+c) Create workspace [left hand side navigation, click create workspace]
+d) Upload the below items [Vinay Tech Demo Report.pbix]
+		Non paginated report: Power BI Desktop Report: PBIX File
+e) Browse the report, click share to see the sharing options.
